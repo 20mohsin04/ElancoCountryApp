@@ -7,3 +7,4 @@ To run:
 - Using a terminal CD to /CountryApp/frontend/ and run **npm start**.
 - Access the app at URL http://localhost:3000/
 
+**Not currently functional**.
